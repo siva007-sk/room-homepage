@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/room-homepage/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/room-homepage/static/js/main.8e58f50b.chunk.js",
+    "main.js.map": "/room-homepage/static/js/main.8e58f50b.chunk.js.map",
+    "runtime-main.js": "/room-homepage/static/js/runtime-main.43775f13.js",
+    "runtime-main.js.map": "/room-homepage/static/js/runtime-main.43775f13.js.map",
+    "static/js/2.7daebbc7.chunk.js": "/room-homepage/static/js/2.7daebbc7.chunk.js",
+    "static/js/2.7daebbc7.chunk.js.map": "/room-homepage/static/js/2.7daebbc7.chunk.js.map",
+    "static/js/3.2a8dbb2c.chunk.js": "/room-homepage/static/js/3.2a8dbb2c.chunk.js",
+    "static/js/3.2a8dbb2c.chunk.js.map": "/room-homepage/static/js/3.2a8dbb2c.chunk.js.map",
+    "index.html": "/room-homepage/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/room-homepage/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.7daebbc7.chunk.js.LICENSE.txt": "/room-homepage/static/js/2.7daebbc7.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/room-homepage/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43775f13.js",
+    "static/js/2.7daebbc7.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.8e58f50b.chunk.js"
+  ]
+}
